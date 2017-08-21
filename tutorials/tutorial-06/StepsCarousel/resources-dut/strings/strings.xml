@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">Steps Carousel</string>
+    <string id="TotalSteps">Totaal</string>
+    <string id="ActiveSteps">Stappen</string>
+    <string id="StepsToDo">Te Gaan</string>
+    <string id="GoalPercentage">Doel (%)</string>
+</strings>
