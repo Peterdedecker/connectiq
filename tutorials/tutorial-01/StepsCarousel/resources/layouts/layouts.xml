@@ -1,0 +1,30 @@
+<layouts>
+    <!-- A generic, centered layout. -->
+    <layout id="MainLayout">
+        <drawable class="Background" />
+        <label id="label" x="center" y="center" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" />
+        <label id="value" x="center" y="center" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+    </layout>
+
+    <!-- Layouts used for the for the four quadrants. -->
+    <layout id="TopLeftLayout">
+        <drawable class="Background" />
+        <label id="label" x="95" y="75" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" />
+        <label id="value" x="95" y="42" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_LARGE" />
+    </layout>
+    <layout id="TopRightLayout">
+        <drawable class="Background" />
+        <label id="label" x="14" y="75" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" />
+        <label id="value" x="14" y="42" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_LARGE" />
+    </layout>
+    <layout id="BottomLeftLayout">
+        <drawable class="Background" />
+        <label id="label" x="95" y="10" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_TINY" />
+        <label id="value" x="95" y="27" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_LARGE" />
+    </layout>
+    <layout id="BottomRightLayout">
+        <drawable class="Background" />
+        <label id="label" x="14" y="10" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_TINY" />
+        <label id="value" x="14" y="27" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_LARGE" />
+    </layout>
+</layouts>
