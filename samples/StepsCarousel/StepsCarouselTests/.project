@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>StepsCarouselTests</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>connectiq.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>connectiq.projectNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/StepsCarousel/resources</locationURI>
+		</link>
+		<link>
+			<name>resources-dut</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/StepsCarousel/resources-dut</locationURI>
+		</link>
+		<link>
+			<name>source/StepsCarouselView.mc</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/StepsCarousel/source/StepsCarouselView.mc</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D/connectiq</value>
+		</variable>
+	</variableList>
+</projectDescription>
