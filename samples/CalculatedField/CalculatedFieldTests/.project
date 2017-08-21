@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CalculatedFieldTests</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>connectiq.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>connectiq.projectNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/CalculatedField/resources</locationURI>
+		</link>
+		<link>
+			<name>resources-eng</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/CalculatedField/resources-eng</locationURI>
+		</link>
+		<link>
+			<name>source/CalculatedFieldView.mc</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/CalculatedField/source/CalculatedFieldView.mc</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

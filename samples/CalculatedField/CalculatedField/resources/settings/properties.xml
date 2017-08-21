@@ -1,0 +1,26 @@
+<resources>
+    <properties>
+		<property id="label" type="string">Formula</property>
+		<property id="formula" type="string">cadence/2</property>
+		<property id="format" type="string">%d</property>
+    </properties>
+
+    <settings>
+        <setting propertyKey="@Properties.label" title="@Strings.labelTitle">
+            <settingConfig type="alphanumeric" />
+		</setting>		
+        <setting propertyKey="@Properties.formula" title="@Strings.formulaTitle">
+            <settingConfig type="alphanumeric" />
+		</setting>		
+        <setting propertyKey="@Properties.format" title="@Strings.formatTitle">
+            <settingConfig type="alphanumeric" />
+		</setting>		
+    </settings>
+    
+    <strings>
+         <!-- strings for settings -->
+        <string id="labelTitle">Field Label</string>
+        <string id="formulaTitle">Formula</string>
+        <string id="formatTitle">Format String (%.2f=num with 2 decimals, %d=num without decimals)</string>
+    </strings>
+</resources>
