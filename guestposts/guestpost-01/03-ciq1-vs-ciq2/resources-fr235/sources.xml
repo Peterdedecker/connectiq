@@ -1,0 +1,10 @@
+<build>
+	<!-- notice that we're using the same file to handle the layout on the 235 and the 735xt
+	     we wish to retain the SemiRound logic, so we exclude all other device classes -->  
+    <exclude file="../source/Vivoactive.mc" />
+    
+    <!-- the 235 is a CIQ1 device so we need to exclude CIQ2 logic -->
+    <exclude file="../source/PetersWatchfaceAppCiq2.mc" />  
+    <exclude file="../source/Ciq2View.mc" />
+     
+</build>

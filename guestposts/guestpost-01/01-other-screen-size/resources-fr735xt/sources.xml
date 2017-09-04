@@ -1,0 +1,4 @@
+<build>
+	<!-- for the FR735XT exclude all the other watch-specific files from being included in this build -->  
+    <exclude file="../source/Vivoactive.mc" /> 
+</build>

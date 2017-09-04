@@ -12,3 +12,7 @@ tutorials/tutorial-05/StepsCarouselTests/bin/
 tutorials/tutorial-05/StepsCarousel/bin/
 tutorials/tutorial-06/StepsCarousel/bin/
 tutorials/tutorial-06/StepsCarouselTests/bin/
+.metadata/
+guestposts/guestpost-01/01-other-screen-size/bin/
+guestposts/guestpost-01/02-ciq1-vs-ciq2/bin/
+guestposts/guestpost-01/03-ciq1-vs-ciq2/bin/

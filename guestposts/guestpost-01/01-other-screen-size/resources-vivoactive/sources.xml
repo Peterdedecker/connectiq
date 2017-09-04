@@ -1,0 +1,4 @@
+<build>
+	<!-- for the Vivoactive exclude all the other watch-specific files from being included in this build -->  
+    <exclude file="../source/Semiround.mc" /> 
+</build>

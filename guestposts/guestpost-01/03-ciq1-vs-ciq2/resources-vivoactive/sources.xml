@@ -1,0 +1,8 @@
+<build>
+	<!-- for the Vivoactive exclude all the other watch-specific files from being included in this build -->  
+    <exclude file="../source/Semiround.mc" /> 
+
+    <!-- the Vivoactive is a CIQ1 device so we need to exclude CIQ2 logic -->
+    <exclude file="../source/PetersWatchfaceAppCiq2.mc" />  
+    <exclude file="../source/Ciq2View.mc" />
+</build>
