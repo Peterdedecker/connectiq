@@ -48,7 +48,7 @@ class BackgroundServiceDelegate extends System.ServiceDelegate {
     function onTemporalEvent() {
     	var time = System.getClockTime();
         Comm.makeWebRequest(
-            "https://jsonplaceholder.typicode.com/todos/" + (Math.rand() % 100 + 1),  // get a random number between 1 and 101...
+            "https://jsonplaceholder.typicode.com/todos/" + (Math.rand() % 100 + 1),  // get a random number between 1 and 100...
             {},
             { "Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED },
             method(:onReceive)
