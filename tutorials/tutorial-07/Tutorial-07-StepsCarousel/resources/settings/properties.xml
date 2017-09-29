@@ -1,0 +1,27 @@
+<resources>
+    <properties>
+    	<property id="carouselSeconds" type="number">5</property>
+    	<property id="showTotal" type="boolean">true</property>
+    	<property id="showSteps" type="boolean">true</property>
+    	<property id="showStepsToGo" type="boolean">true</property>
+    	<property id="showGoalPercentage" type="boolean">true</property>
+    </properties>
+
+    <settings>
+        <setting propertyKey="@Properties.carouselSeconds" title="@Strings.carouselSecondsTitle">
+            <settingConfig type="numeric" min="1" max ="20" />
+		</setting>
+        <setting propertyKey="@Properties.showTotal" title="@Strings.showTotalTitle">
+            <settingConfig type="boolean" />
+		</setting>
+        <setting propertyKey="@Properties.showSteps" title="@Strings.showStepsTitle">
+            <settingConfig type="boolean" />
+		</setting>
+        <setting propertyKey="@Properties.showStepsToGo" title="@Strings.showStepsToGoTitle">
+            <settingConfig type="boolean" />
+		</setting>
+        <setting propertyKey="@Properties.showGoalPercentage" title="@Strings.showGoalPercentageTitle">
+            <settingConfig type="boolean" />
+		</setting>
+    </settings>
+</resources>

@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">Steps Carousel</string>
+    <string id="TotalSteps">Total</string>
+    <string id="ActiveSteps">Steps</string>
+    <string id="StepsToDo">To Go</string>
+    <string id="GoalPercentage">Goal (%)</string>    
+    <string id="carouselSecondsTitle">Show next item in carousel every X seconds</string>
+    <string id="showTotalTitle">Show Total Steps (today's steps)</string>
+	<string id="showStepsTitle">Show Steps of the current activity</string>
+	<string id="showStepsToGoTitle">Show Steps left to reach goal steps of the day</string>
+	<string id="showGoalPercentageTitle">Show Goal Reached Today in Percent</string>
+</strings>
