@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="11" pc="268435479" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="13" pc="268435483" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="16" pc="268435503" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="17" pc="268435539" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="19" pc="268435624" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Vivoactive.mc" lineNum="20" pc="268435660" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\PetersWatchfaceAppCiq1.mc" lineNum="6" pc="268435724" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\PetersWatchfaceAppCiq1.mc" lineNum="7" pc="268435728" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\PetersWatchfaceAppCiq1.mc" lineNum="11" pc="268435747" symbol="getInitialView"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\PetersWatchfaceAppCiq1.mc" lineNum="12" pc="268435751" symbol="getInitialView"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="12" pc="268435789" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="13" pc="268435793" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="17" pc="268435812" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="19" pc="268435816" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="22" pc="268435830" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="26" pc="268435843" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="27" pc="268435847" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="28" pc="268435866" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="31" pc="268435885" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="32" pc="268435921" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="35" pc="268435960" symbol="determineClockTime"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="36" pc="268435964" symbol="determineClockTime"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\CommonLogicView.mc" lineNum="37" pc="268435981" symbol="determineClockTime"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Ciq1View.mc" lineNum="4" pc="268436062" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Ciq1View.mc" lineNum="5" pc="268436066" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\03-ciq1-vs-ciq2\\source\\Ciq1View.mc" lineNum="7" pc="268436084" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="11" object="true" symbol="CommonLogicView"/>
+<entry field="true" id="18" symbol="timeString"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="10" object="true" symbol="PetersWatchfaceApp"/>
+<entry id="9" object="true" symbol="DeviceView"/>
+<entry id="19" method="true" symbol="clearScreen"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="20" method="true" symbol="determineClockTime"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry field="true" id="17" symbol="message"/>
+<entry id="12" object="true" symbol="CiqView"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435724" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435843" name="dc" stackId="1" startPc="268435812"/>
+<entry endPc="268435960" name="dc" stackId="1" startPc="268435843"/>
+<entry endPc="268436061" name="clockTime" stackId="1" startPc="268435964"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="DeviceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DeviceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PetersWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PetersWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CommonLogicView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CommonLogicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="clearScreen" parent="CommonLogicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="determineClockTime" parent="CommonLogicView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CiqView">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="PetersWatchfaceApp" type="class"/>
+<dataEntry offset="253" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="495" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="534" parentId="globals" symbolId="CiqView" type="class"/>
+<dataEntry offset="589" parentId="globals" symbolId="DeviceView" type="class"/>
+<dataEntry offset="644" parentId="globals" symbolId="CommonLogicView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

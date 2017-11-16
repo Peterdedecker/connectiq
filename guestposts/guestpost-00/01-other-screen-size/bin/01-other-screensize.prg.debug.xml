@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="11" pc="268435479" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="13" pc="268435483" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="16" pc="268435503" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="17" pc="268435539" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="19" pc="268435624" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\Vivoactive.mc" lineNum="20" pc="268435660" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\PetersWatchfaceApp.mc" lineNum="5" pc="268435721" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\PetersWatchfaceApp.mc" lineNum="6" pc="268435725" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\PetersWatchfaceApp.mc" lineNum="10" pc="268435744" symbol="getInitialView"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\PetersWatchfaceApp.mc" lineNum="12" pc="268435748" symbol="getInitialView"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="12" pc="268435786" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="13" pc="268435790" symbol="initialize"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="17" pc="268435809" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="19" pc="268435813" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="22" pc="268435827" symbol="onUpdate"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="26" pc="268435840" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="27" pc="268435844" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="28" pc="268435863" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="31" pc="268435882" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="32" pc="268435918" symbol="clearScreen"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="35" pc="268435957" symbol="determineClockTime"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="36" pc="268435961" symbol="determineClockTime"/>
+<entry filename="C:\\_Personal\\git\\connectiq-public\\guestposts\\guestpost-01\\01-other-screen-size\\source\\CommonLogicView.mc" lineNum="37" pc="268435978" symbol="determineClockTime"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="11" object="true" symbol="CommonLogicView"/>
+<entry field="true" id="16" symbol="timeString"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="10" object="true" symbol="PetersWatchfaceApp"/>
+<entry id="9" object="true" symbol="DeviceView"/>
+<entry id="17" method="true" symbol="clearScreen"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="18" method="true" symbol="determineClockTime"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435721" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435840" name="dc" stackId="1" startPc="268435809"/>
+<entry endPc="268435957" name="dc" stackId="1" startPc="268435840"/>
+<entry endPc="268436058" name="clockTime" stackId="1" startPc="268435961"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="DeviceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DeviceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PetersWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PetersWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CommonLogicView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CommonLogicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="clearScreen" parent="CommonLogicView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="determineClockTime" parent="CommonLogicView">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="PetersWatchfaceApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="417" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="448" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="518" parentId="globals" symbolId="DeviceView" type="class"/>
+<dataEntry offset="573" parentId="globals" symbolId="CommonLogicView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
