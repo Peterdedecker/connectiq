@@ -1,2 +1,8 @@
-fr735xt.sourcePath=source;source-semiround
-vivoactive.sourcePath=source;source-vivoactive  
+project.manifest = manifest.xml
+
+# fix autobuild to a specific device
+base.sourcePath=$(fr735xt.sourcePath)
+
+# define sourcePaths
+vivoactive.sourcePath=source;source-vivoactive
+fr735xt.sourcePath=source;source-semiround  
