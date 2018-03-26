@@ -11,7 +11,7 @@ using Toybox.Math;
 // CIQ2 Version
 (:background)
 class PetersWatchfaceApp extends App.AppBase {
-	var backgroundMessage = "What should I do?";
+    var backgroundMessage = "What should I do?";
 
     function initialize() {
         AppBase.initialize();
@@ -19,17 +19,17 @@ class PetersWatchfaceApp extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-    	// register for temporal events, we don't need to check whether this is supported, we know we have a Connect IQ 2 device here!
-		Background.registerForTemporalEvent(new Time.Duration(5 * 60));		    	
+        // register for temporal events, we don't need to check whether this is supported, we know we have a Connect IQ 2 device here!
+        Background.registerForTemporalEvent(new Time.Duration(5 * 60));             
         return [ new DeviceView() ];  
     }
     
     function onBackgroundData(data) {
-    	// store the data from the background event in a class level variable
-    	backgroundMessage = data;
-    	
-    	// we received a new todo item, invoke a request to update the screen
-    	Ui.requestUpdate();
+        // store the data from the background event in a class level variable
+        backgroundMessage = data;
+        
+        // we received a new todo item, invoke a request to update the screen
+        Ui.requestUpdate();
     }
 
     function getServiceDelegate(){
@@ -40,13 +40,14 @@ class PetersWatchfaceApp extends App.AppBase {
 // The Service Delegate is the main entry point for background processes 
 (:background)
 class BackgroundServiceDelegate extends System.ServiceDelegate {
-	function initialize() {
-		System.ServiceDelegate.initialize();
-	}
-	
-	// this is called every time the periodic event is triggered by the system.
+    function initialize() {
+        System.ServiceDelegate.initialize();
+    }
+    
+    // this is called every time the periodic event is triggered by the system.
     function onTemporalEvent() {
-    	var time = System.getClockTime();
+
+        var time = System.getClockTime();
         Comm.makeWebRequest(
             "https://jsonplaceholder.typicode.com/todos/" + (Math.rand() % 100 + 1),  // get a random number between 1 and 100...
             {},
